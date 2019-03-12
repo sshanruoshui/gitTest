@@ -12,4 +12,8 @@ public class FirstClass {
         int a=1;
         System.out.println(a);
     }
+    public void test01(){
+        int a=2;
+        System.out.println(a);
+    }
 }
