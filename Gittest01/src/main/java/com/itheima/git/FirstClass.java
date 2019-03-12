@@ -8,4 +8,8 @@ public class FirstClass {
         System.out.println("hello Git Test!!4");
         System.out.println("hello Git Test!!5");
     }
+    public void test(){
+        int a=1;
+        System.out.println(a);
+    }
 }
